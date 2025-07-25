@@ -21,7 +21,7 @@ To access maintained and secure versions, follow the official documentation:
 ## :inbox_tray: Need help or more information?
 
 If you are an existing user or need assistance migrating to a newer version, feel free to contact us:
-:e-mail: contact@strangebee.com
+:mail: contact@strangebee.com
 
 :globe_with_meridians: https://www.strangebee.com
 
