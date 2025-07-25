@@ -20,8 +20,9 @@ To access maintained and secure versions, follow the official documentation:
 
 ## :inbox_tray: Need help or more information?
 
-If you are an existing user or need assistance migrating to a newer version, feel free to contact us:
-:mail: contact@strangebee.com
+If you are an existing user or need assistance migrating to a newer version, feel free to contact us:  
+
+📧 contact@strangebee.com
 
 :globe_with_meridians: https://www.strangebee.com
 
