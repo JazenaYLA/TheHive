@@ -16,7 +16,7 @@ and powerful new features tailored for modern SOC operations
 TheHive is now distributed as a commercial version
 
 To access maintained and secure versions, follow the official documentation:
- :lien: [Link](https://docs.strangebee.com)
+ 🔗 [Link](https://docs.strangebee.com)
 
 ## :inbox_tray: Need help or more information?
 
